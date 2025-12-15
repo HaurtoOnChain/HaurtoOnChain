@@ -1,26 +1,3 @@
-# Favorite Saying 👍
-
-```python
-"""haruto's motto"""
-
-
-class AndrewNg:
-    """Return Andrew Ng quote."""
-
-    @staticmethod
-    def said() -> str:
-        return (
-            "AI is the new electricity. Just as electricity transformed "
-            "almost everything 100 years ago, today I actually have a "
-            "hard time thinking of an industry that I don't think AI "
-            "will transform in the next several years."
-        )
-
-
-if __name__ == "__main__":
-    print(f"Andrew Ng — {AndrewNg.said()}")
-```
-
 # Senior AI / ML Full Stack Engineer
 
 I build production AI systems end-to-end — from data pipelines and model training to the APIs, dashboards, and chat surfaces users actually touch. I care about latency, eval rigor, and shipping things that don't break at 3 AM.
